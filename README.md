@@ -6,7 +6,7 @@ Hello there, I’m <a href="https://www.polover.com" target=”_blank” rel=”
 Mobile and Web Developer
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+Mobile Developer with 2 years of experience in mobile (native Android and Hybrid; Android, iOS), game and web app development. Familiar with a wide range of programming languages including Java, Dart, C#, PHP, JavaScript, Python. Knowledgeable of backend and frontend development requirements with restful APIs and frameworks such as Flutter, CodeIgniter, Flask, Unity, Construct 3
 
 
 ## 📈 GitHub Stats 
