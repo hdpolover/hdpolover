@@ -1,8 +1,8 @@
-<h3 align="center">
+<h1>
 Hello there, I’m <a href="https://www.polover.com" target=”_blank” rel=”noreferrer”>Hendra</a> 👋
-</h3>
+</h1>
 
-<h2 align="center">
+<h2>
 Mobile and Web Developer
 </h2> 
 
