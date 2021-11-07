@@ -11,9 +11,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Hendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdpolover)](https://github.com/hdpolover)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdpolover&layout=compact)](https://github.com/hdpolover)
+[![Hendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdpolover)](https://github.com/hdpolover) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdpolover&layout=compact)](https://github.com/hdpolover)
 
 
 <!--
