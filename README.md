@@ -6,8 +6,6 @@ Hello there, I’m <a href="https://www.polover.com" target=”_blank” rel=”
 Mobile and Web Developer
 </h2> 
 
-Mobile Developer with 2 years of experience in mobile (native Android and Hybrid; Android, iOS), game and web app development. Familiar with a wide range of programming languages including Java, Dart, C#, PHP, JavaScript, Python. Knowledgeable of backend and frontend development requirements with restful APIs and frameworks such as Flutter, CodeIgniter, Flask, Unity, Construct 3
-
 
 ## 📈 GitHub Stats 
 
