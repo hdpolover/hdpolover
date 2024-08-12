@@ -3,7 +3,7 @@ Hello there, I’m <a href="https://www.polover.com" target=”_blank” rel=”
 </h1>
 
 <h2>
-Mobile and Web Developer
+Mobile Developer
 </h2> 
 
 
