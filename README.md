@@ -7,7 +7,7 @@ Mobile Developer | Flutter Enthusiast | Building Innovative Mobile Experiences
 </h3>
 
 <p align="center">
-  <a href="https://www.polover.com" target="_blank">🌐 Website</a> •
+  <a href="https://www.hendracodes.com" target="_blank">🌐 Website</a> •
   <a href="https://github.com/hdpolover">💻 GitHub</a>
 </p>
 
@@ -16,12 +16,6 @@ Mobile Developer | Flutter Enthusiast | Building Innovative Mobile Experiences
 ## 👨‍💻 About Me
 
 I'm a passionate **Mobile Developer** with expertise in creating elegant and performant mobile applications. I specialize in cross-platform development and love bringing creative ideas to life through clean, efficient code. My focus is on delivering exceptional user experiences that make a difference.
-
-- 🔭 **Currently working on:** Building innovative mobile solutions and exploring new technologies
-- 🌱 **Learning:** Advanced Flutter patterns, mobile architecture, and emerging mobile technologies
-- 💡 **Passionate about:** Clean code, user experience, and mobile innovation
-- 🎯 **Goal:** Creating impactful mobile applications that solve real-world problems
-- ⚡ **Fun fact:** I believe the best code is the code that users never have to think about!
 
 ---
 
@@ -61,7 +55,7 @@ I'm a passionate **Mobile Developer** with expertise in creating elegant and per
 
 I'm always interested in connecting with fellow developers, discussing new projects, or exploring collaboration opportunities!
 
-- 🌐 **Website:** [polover.com](https://www.polover.com)
+- 🌐 **Website:** [polover.com](https://www.hendracodes.com)
 - 💼 **LinkedIn:** Connect with me on LinkedIn
 - 📧 **Email:** Reach out for collaboration or questions
 - 🐦 **Twitter:** Follow for mobile dev insights
