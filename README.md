@@ -1,69 +1,56 @@
-<h1 align="center">Hi, I'm Hendra 👋</h1>
+<div align="center">
 
-<h3 align="center">Mobile-first full-stack developer — Flutter on the front, Next.js and the servers behind it.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Hendra%20Suhendra&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Mobile%20first.%20Full%20stack%20when%20it%20fits.&descSize=16&descAlignY=56" alt="" />
 
-<p align="center">
-  <a href="https://hendracodes.com" target="_blank">🌐 hendracodes.com</a> •
-  <a href="https://hendracodes.com/projects" target="_blank">🗂️ Projects</a>
-</p>
+<a href="https://hendracodes.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=520&lines=Flutter+apps+that+ship;APIs%2C+databases+and+the+servers+behind+them;5%2B+years%2C+19+shipped+projects" alt="Flutter apps that ship. APIs, databases and the servers behind them." />
+</a>
 
----
+<br/>
 
-## About
+<a href="https://hendracodes.com"><img src="https://img.shields.io/badge/Portfolio-hendracodes.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/suhendras"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/hdpolover"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20work-16A34A?style=for-the-badge" alt="Open to work" />
 
-I build mobile apps in Flutter, and over time I got tired of waiting on someone else's API — so now I write the backend too. These days a typical project of mine spans the app, the API, the database, and whatever it takes to keep it running in production.
-
-Most of what I ship is product work: booking platforms, payment flows, community apps, exam systems. I also like taking on the occasional deliberately hard thing to learn the internals properly — the multiplayer game below started as a "how do WebSockets actually work" detour and turned into a real product.
-
-I've led teams and mentored developers, and I work Agile without being religious about it.
+</div>
 
 ---
 
-## Selected work
+I build mobile apps in Flutter and the backends they talk to. Most projects I take on span the app, the API, the database and the deployment, so I tend to own the whole path rather than one slice of it.
 
-| Project | What it is |
-| --- | --- |
-| **[Coret](https://coret.hendracodes.com)** | Real-time multiplayer draw & guess game, built from scratch as a deep dive into WebSocket engineering — hand-written wire protocol, server-authoritative state, Redis-backed horizontal scaling. |
-| **[Exam prep platform](https://hendracodes.com/projects)** | Full-stack, multi-app prep platform for Indonesian students sitting UTBK, TOEFL and similar. Fullscreen anti-cheat test engine, course system, student dashboards, admin tooling. |
-| **[MyGlobalWorkspace](https://hendracodes.com/projects/myglobalworkspace)** | Coworking reservation platform — search, book and manage workspace rentals, with a connected web dashboard for space owners to handle bookings. |
-| **[YBB community platform](https://hendracodes.com/projects)** | Social platform for the Youth Break the Boundaries Foundation community: interactive posts, comments and recommendations. |
-| **[Multipayment app](https://hendracodes.com/projects)** | International transfers with real-time rates and secure transactions, backed by an admin system for monitoring. |
-| **[Multi-timer](https://hendracodes.com/projects)** | Focused Android app for running several countdowns, routines and interval workouts side by side. Reliable background alerts, accessibility from the first screen. |
+Work I care about: booking platforms, payment flows, community apps, exam systems, and the occasional hard problem picked up on purpose to learn the internals.
 
-More at [hendracodes.com/projects](https://hendracodes.com/projects).
+**Everything I have shipped lives at [hendracodes.com](https://hendracodes.com).** Case studies, stack notes and a contact form are all there.
 
 ---
 
-## Stack
+### Stack
 
-**Mobile** — Flutter · Dart · React Native · Android (Kotlin) · iOS (Swift)
+<div align="center">
 
-**Web** — Next.js · React · Node/Express
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,nextjs,ts,nodejs,nestjs,laravel,python,go&theme=dark" alt="Flutter, Dart, Kotlin, Swift, React, Next.js, TypeScript, Node.js, NestJS, Laravel, Python, Go" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,firebase,docker,nginx,linux,githubactions,grafana,gcp&theme=dark" alt="PostgreSQL, MongoDB, Redis, MySQL, Supabase, Firebase, Docker, Nginx, Linux, GitHub Actions, Grafana, Google Cloud" />
 
-**Data** — PostgreSQL · MongoDB · Redis · MySQL · SQLite
-
-**Infra** — Docker · Nginx · Linux · GitHub Actions · Grafana + Prometheus · Vercel / Railway / Dokploy · Google Cloud
-
----
-
-## Working together
-
-I take on end-to-end product work — architecture planning, stack selection, building the thing, and scalability audits when something's already built and creaking.
-
-If that's useful to you, the contact form at [hendracodes.com](https://hendracodes.com) is the fastest way to reach me.
+</div>
 
 ---
 
-## GitHub
+### Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdpolover&show_icons=true&theme=tokyonight&hide_border=true" alt="Hendra's GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdpolover&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<img src="https://streak-stats.demolab.com?user=hdpolover&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hdpolover&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdpolover&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" alt="Top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" alt="" />
+
+</div>
