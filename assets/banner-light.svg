@@ -38,4 +38,5 @@
     </circle>
     <text x="20" y="0" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="14" fill="#6B7C84">hendracodes.com</text>
   </g>
+  <rect x="1" y="1" width="1198" height="318" rx="12" fill="none" stroke="#DCE6E8" stroke-width="2"/>
 </svg>
