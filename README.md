@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Hendra&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Mobile%20first.%20Full%20stack%20when%20it%20fits.&descSize=16&descAlignY=56" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080a,55:053b42,100:00b4ab&height=180&section=header&text=Hendra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Mobile%20first.%20Full%20stack%20when%20it%20fits.&descSize=16&descAlignY=56" alt="" />
 
 <a href="https://hendracodes.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=520&lines=Flutter+apps+that+ship;APIs%2C+databases+and+the+servers+behind+them;5%2B+years%2C+19+shipped+projects" alt="Flutter apps that ship. APIs, databases and the servers behind them." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00B4AB&center=true&vCenter=true&width=580&lines=Flutter+apps+that+ship;APIs%2C+databases+and+the+servers+behind+them;5%2B+years%2C+19+shipped+projects" alt="Flutter apps that ship. APIs, databases and the servers behind them." />
 </a>
 
 <br/>
 
-<a href="https://hendracodes.com"><img src="https://img.shields.io/badge/Portfolio-hendracodes.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/suhendras"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/hdpolover"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20work-16A34A?style=for-the-badge" alt="Open to work" />
+<a href="https://hendracodes.com"><img src="https://img.shields.io/badge/Portfolio-hendracodes.com-00B4AB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05080A" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/suhendras"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05080A" alt="LinkedIn" /></a>
+<a href="https://instagram.com/hdpolover"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=05080A" alt="Instagram" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20work-00F5FF?style=for-the-badge&labelColor=05080A&color=005f5a" alt="Open to work" />
 
 </div>
 
@@ -41,12 +41,12 @@ Work I care about: booking platforms, payment flows, community apps, exam system
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hdpolover&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=hdpolover&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&background=05080A&stroke=0D2A2E&ring=00F5FF&fire=00F5FF&currStreakNum=FFFFFF&sideNums=00B4AB&currStreakLabel=00F5FF&sideLabels=9AAABE&dates=6B7C8C" alt="GitHub streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4ab,45:053b42,100:05080a&height=120&section=footer" alt="" />
 
 </div>
