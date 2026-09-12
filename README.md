@@ -43,10 +43,6 @@ Work I care about: booking platforms, payment flows, community apps, exam system
 
 <img src="https://streak-stats.demolab.com?user=hdpolover&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdpolover&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" alt="Top languages" />
-
 </div>
 
 <div align="center">
