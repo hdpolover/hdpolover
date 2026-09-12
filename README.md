@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Hendra%20Suhendra&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Mobile%20first.%20Full%20stack%20when%20it%20fits.&descSize=16&descAlignY=56" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=180&section=header&text=Hendra&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Mobile%20first.%20Full%20stack%20when%20it%20fits.&descSize=16&descAlignY=56" alt="" />
 
 <a href="https://hendracodes.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=520&lines=Flutter+apps+that+ship;APIs%2C+databases+and+the+servers+behind+them;5%2B+years%2C+19+shipped+projects" alt="Flutter apps that ship. APIs, databases and the servers behind them." />
