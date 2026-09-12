@@ -1,93 +1,69 @@
-<h1 align="center">
-Hello there, I'm <a href="https://www.polover.com" target="_blank" rel="noreferrer">Hendra</a> 👋
-</h1>
+<h1 align="center">Hi, I'm Hendra 👋</h1>
 
-<h3 align="center">
-Mobile Developer | Flutter Enthusiast | Building Innovative Mobile Experiences
-</h3>
+<h3 align="center">Mobile-first full-stack developer — Flutter on the front, Next.js and the servers behind it.</h3>
 
 <p align="center">
-  <a href="https://www.hendracodes.com" target="_blank">🌐 Website</a> •
-  <a href="https://github.com/hdpolover">💻 GitHub</a>
+  <a href="https://hendracodes.com" target="_blank">🌐 hendracodes.com</a> •
+  <a href="https://hendracodes.com/projects" target="_blank">🗂️ Projects</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a passionate **Mobile Developer** with expertise in creating elegant and performant mobile applications. I specialize in cross-platform development and love bringing creative ideas to life through clean, efficient code. My focus is on delivering exceptional user experiences that make a difference.
+I build mobile apps in Flutter, and over time I got tired of waiting on someone else's API — so now I write the backend too. These days a typical project of mine spans the app, the API, the database, and whatever it takes to keep it running in production.
 
----
+Most of what I ship is product work: booking platforms, payment flows, community apps, exam systems. I also like taking on the occasional deliberately hard thing to learn the internals properly — the multiplayer game below started as a "how do WebSockets actually work" detour and turned into a real product.
 
-## 🚀 Skills & Technologies
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-### Languages & Frameworks
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+I've led teams and mentored developers, and I work Agile without being religious about it.
 
 ---
 
-## 🎯 Current Focus
+## Selected work
 
-- 📱 Developing robust and scalable mobile applications
-- 🔧 Exploring advanced Flutter architecture patterns
-- 🌟 Contributing to open-source mobile development projects
-- 📚 Sharing knowledge and best practices in mobile development
-- 🚀 Staying up-to-date with the latest mobile development trends
+| Project | What it is |
+| --- | --- |
+| **[Coret](https://coret.hendracodes.com)** | Real-time multiplayer draw & guess game, built from scratch as a deep dive into WebSocket engineering — hand-written wire protocol, server-authoritative state, Redis-backed horizontal scaling. |
+| **[Exam prep platform](https://hendracodes.com/projects)** | Full-stack, multi-app prep platform for Indonesian students sitting UTBK, TOEFL and similar. Fullscreen anti-cheat test engine, course system, student dashboards, admin tooling. |
+| **[MyGlobalWorkspace](https://hendracodes.com/projects/myglobalworkspace)** | Coworking reservation platform — search, book and manage workspace rentals, with a connected web dashboard for space owners to handle bookings. |
+| **[YBB community platform](https://hendracodes.com/projects)** | Social platform for the Youth Break the Boundaries Foundation community: interactive posts, comments and recommendations. |
+| **[Multipayment app](https://hendracodes.com/projects)** | International transfers with real-time rates and secure transactions, backed by an admin system for monitoring. |
+| **[Multi-timer](https://hendracodes.com/projects)** | Focused Android app for running several countdowns, routines and interval workouts side by side. Reliable background alerts, accessibility from the first screen. |
 
----
-
-## 📫 Let's Connect!
-
-I'm always interested in connecting with fellow developers, discussing new projects, or exploring collaboration opportunities!
-
-- 🌐 **Website:** [polover.com](https://www.hendracodes.com)
-- 💼 **LinkedIn:** Connect with me on LinkedIn
-- 📧 **Email:** Reach out for collaboration or questions
-- 🐦 **Twitter:** Follow for mobile dev insights
+More at [hendracodes.com/projects](https://hendracodes.com/projects).
 
 ---
 
-## 📈 GitHub Stats
+## Stack
+
+**Mobile** — Flutter · Dart · React Native · Android (Kotlin) · iOS (Swift)
+
+**Web** — Next.js · React · Node/Express
+
+**Data** — PostgreSQL · MongoDB · Redis · MySQL · SQLite
+
+**Infra** — Docker · Nginx · Linux · GitHub Actions · Grafana + Prometheus · Vercel / Railway / Dokploy · Google Cloud
+
+---
+
+## Working together
+
+I take on end-to-end product work — architecture planning, stack selection, building the thing, and scalability audits when something's already built and creaking.
+
+If that's useful to you, the contact form at [hendracodes.com](https://hendracodes.com) is the fastest way to reach me.
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdpolover&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hendra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hdpolover&show_icons=true&theme=tokyonight&hide_border=true" alt="Hendra's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdpolover&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdpolover&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdpolover&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>💡 "Great mobile apps are built with passion, precision, and a deep understanding of user needs."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hdpolover&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/hdpolover">hdpolover</a> | Feel free to explore my repositories and don't hesitate to reach out!
+  <img src="https://streak-stats.demolab.com?user=hdpolover&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
