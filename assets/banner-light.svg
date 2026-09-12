@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Hendra. Mobile first, full stack when it fits.">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00B4AB" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#00B4AB" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#F7F9FA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#009E96"/>
+      <stop offset="60%" stop-color="#00B4AB"/>
+      <stop offset="100%" stop-color="#00B4AB" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#DCE6E8" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="#F7F9FA"/>
+  <rect width="1200" height="320" fill="url(#grid)" opacity="0.55"/>
+  <circle cx="1010" cy="70" r="300" fill="url(#glow)"/>
+
+  <g font-family="ui-monospace,'JetBrains Mono','SF Mono',Menlo,monospace">
+    <text x="80" y="118" font-size="17" letter-spacing="5" fill="#00B4AB">MOBILE / FULL STACK</text>
+    <text x="80" y="196" font-size="72" font-weight="700" fill="#0B1417" font-family="ui-sans-serif,system-ui,'Inter',Helvetica,Arial,sans-serif">hendra<tspan fill="#009E96">.</tspan></text>
+    <rect x="80" y="222" width="196" height="3" rx="1.5" fill="url(#rule)"/>
+    <text x="80" y="266" font-size="19" fill="#4A5B63">Flutter apps, and the APIs, databases and servers behind them.</text>
+  </g>
+
+  <g transform="translate(940,168)" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="15" fill="#6B7C84">
+    <text x="0" y="0" text-anchor="start" fill="#009E96">5+</text><text x="34" y="0">years</text>
+    <text x="0" y="30" text-anchor="start" fill="#009E96">19</text><text x="34" y="30">shipped</text>
+    <text x="0" y="60" text-anchor="start" fill="#009E96">60+</text><text x="44" y="60">tools</text>
+  </g>
+
+  <g transform="translate(80,286)">
+    <circle cx="4" cy="-4" r="4" fill="#009E96">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="20" y="0" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="14" fill="#6B7C84">hendracodes.com</text>
+  </g>
+</svg>
